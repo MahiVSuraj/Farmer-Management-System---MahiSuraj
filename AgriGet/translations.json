@@ -1,0 +1,62 @@
+{
+  "telugu": {
+    "home": "హోమ్",
+    "weatherReport": "వాతావరణ నివేదిక",
+    "categories": "వర్గాలు",
+    "products": "ఉత్పత్తులు",
+    "location": "📍",
+    "weatherConditions": {
+      "sunny": "ఎండగా",
+      "rainy": "వాన"
+    },
+    "categoriesList": [
+      { "name": "పండ్లు", "icon": "local-grocery-store" },
+      { "name": "కూరగాయలు", "icon": "eco" },
+      { "name": "పాలు", "icon": "local-milk" },
+      { "name": "తీపి పదార్థాలు", "icon": "cake" },
+      { "name": "పప్పులు", "icon": "grass" },
+      { "name": "పిండి", "icon": "grain" },
+      { "name": "ధాన్యాలు", "icon": "grain" }
+    ]
+  },
+  "hindi": {
+    "home": "होम",
+    "weatherReport": "मौसम की रिपोर्ट",
+    "categories": "श्रेणियाँ",
+    "products": "उत्पाद",
+    "location": "📍",
+    "weatherConditions": {
+      "sunny": "धूप",
+      "rainy": "बारिश"
+    },
+    "categoriesList": [
+      { "name": "फल", "icon": "local-grocery-store" },
+      { "name": "सब्जियाँ", "icon": "eco" },
+      { "name": "दूध", "icon": "local-milk" },
+      { "name": "मीठा", "icon": "cake" },
+      { "name": "दालें", "icon": "grass" },
+      { "name": "आटा", "icon": "grain" },
+      { "name": "अनाज", "icon": "grain" }
+    ]
+  },
+  "english": {
+    "home": "Home",
+    "weatherReport": "Weather Report",
+    "categories": "Categories",
+    "products": "Products",
+    "location": "📍",
+    "weatherConditions": {
+      "sunny": "Sunny",
+      "rainy": "Rainy"
+    },
+    "categoriesList": [
+      { "name": "Fruits", "icon": "local-grocery-store" },
+      { "name": "Vegetables", "icon": "eco" },
+      { "name": "Milk", "icon": "local-milk" },
+      { "name": "Sweets", "icon": "cake" },
+      { "name": "Pulses", "icon": "grass" },
+      { "name": "Flour", "icon": "grain" },
+      { "name": "Grains", "icon": "grain" }
+    ]
+  }
+}

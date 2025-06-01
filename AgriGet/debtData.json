@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "totalDebt": 150000,
+      "monthlyRepayment": 5000,
+      "interestRate": 8.5,
+      "debtToIncomeRatio": 35,
+      "repaymentStatus": "On Track",
+      "recommendations": "Continue regular payments to stay on track."
+    },
+    {
+      "id": 2,
+      "totalDebt": 250000,
+      "monthlyRepayment": 7500,
+      "interestRate": 10,
+      "debtToIncomeRatio": 50,
+      "repaymentStatus": "Critical",
+      "recommendations": "Consider consolidating your loans to reduce interest rates."
+    },
+    {
+      "id": 3,
+      "totalDebt": 50000,
+      "monthlyRepayment": 2000,
+      "interestRate": 6,
+      "debtToIncomeRatio": 20,
+      "repaymentStatus": "On Track",
+      "recommendations": "Your debt is manageable. Keep saving for emergencies."
+    },
+    {
+      "id": 4,
+      "totalDebt": 120000,
+      "monthlyRepayment": 4500,
+      "interestRate": 9,
+      "debtToIncomeRatio": 40,
+      "repaymentStatus": "Delayed",
+      "recommendations": "Explore government subsidies to help with repayment."
+    },
+    {
+      "id": 5,
+      "totalDebt": 300000,
+      "monthlyRepayment": 10000,
+      "interestRate": 11,
+      "debtToIncomeRatio": 60,
+      "repaymentStatus": "Critical",
+      "recommendations": "Seek financial counseling to restructure your loans."
+    },
+    {
+      "id": 6,
+      "totalDebt": 75000,
+      "monthlyRepayment": 3000,
+      "interestRate": 7,
+      "debtToIncomeRatio": 25,
+      "repaymentStatus": "On Track",
+      "recommendations": "Keep up with your current repayment plan."
+    },
+    {
+      "id": 7,
+      "totalDebt": 400000,
+      "monthlyRepayment": 15000,
+      "interestRate": 12,
+      "debtToIncomeRatio": 75,
+      "repaymentStatus": "Critical",
+      "recommendations": "Apply for government schemes to alleviate debt burden."
+    },
+    {
+      "id": 8,
+      "totalDebt": 180000,
+      "monthlyRepayment": 6000,
+      "interestRate": 9.5,
+      "debtToIncomeRatio": 45,
+      "repaymentStatus": "Delayed",
+      "recommendations": "Negotiate with your bank for lower interest rates."
+    },
+    {
+      "id": 9,
+      "totalDebt": 220000,
+      "monthlyRepayment": 8000,
+      "interestRate": 10.5,
+      "debtToIncomeRatio": 55,
+      "repaymentStatus": "At Risk",
+      "recommendations": "Prioritize repayment of high-interest loans first."
+    },
+    {
+      "id": 10,
+      "totalDebt": 100000,
+      "monthlyRepayment": 3500,
+      "interestRate": 8,
+      "debtToIncomeRatio": 30,
+      "repaymentStatus": "On Track",
+      "recommendations": "You’re doing well. Consider increasing your savings."
+    }
+  ]
+  

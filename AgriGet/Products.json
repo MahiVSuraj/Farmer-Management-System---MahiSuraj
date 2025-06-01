@@ -1,0 +1,124 @@
+{
+  "subsidised_products": [
+    {
+      "id": 1,
+      "name": "Rice",
+      "category": "Grains",
+      "price_per_unit": 20,
+      "subsidy_percentage": 50,
+      "subsidy_amount": 10,
+      "final_price": 10,
+      "availability_status": "In Stock",
+      "supplier": "AgriCorp",
+      "market_price": 30
+    },
+    {
+      "id": 2,
+      "name": "Wheat Flour",
+      "category": "Flour",
+      "price_per_unit": 25,
+      "subsidy_percentage": 40,
+      "subsidy_amount": 10,
+      "final_price": 15,
+      "availability_status": "In Stock",
+      "supplier": "FoodMills",
+      "market_price": 35
+    },
+    {
+      "id": 3,
+      "name": "Milk",
+      "category": "Dairy",
+      "price_per_unit": 15,
+      "subsidy_percentage": 30,
+      "subsidy_amount": 5,
+      "final_price": 10,
+      "availability_status": "In Stock",
+      "supplier": "DairyCo",
+      "market_price": 20
+    },
+    {
+      "id": 4,
+      "name": "Cooking Oil",
+      "category": "Oil",
+      "price_per_unit": 50,
+      "subsidy_percentage": 25,
+      "subsidy_amount": 12.5,
+      "final_price": 37.5,
+      "availability_status": "Out of Stock",
+      "supplier": "HealthyOils",
+      "market_price": 60
+    },
+    {
+      "id": 5,
+      "name": "Lentils",
+      "category": "Legumes",
+      "price_per_unit": 40,
+      "subsidy_percentage": 20,
+      "subsidy_amount": 8,
+      "final_price": 32,
+      "availability_status": "In Stock",
+      "supplier": "PulseWorld",
+      "market_price": 50
+    },
+    {
+      "id": 6,
+      "name": "Sugar",
+      "category": "Sweeteners",
+      "price_per_unit": 35,
+      "subsidy_percentage": 15,
+      "subsidy_amount": 5.25,
+      "final_price": 29.75,
+      "availability_status": "In Stock",
+      "supplier": "SweetCo",
+      "market_price": 45
+    },
+    {
+      "id": 7,
+      "name": "Potatoes",
+      "category": "Vegetables",
+      "price_per_unit": 30,
+      "subsidy_percentage": 50,
+      "subsidy_amount": 15,
+      "final_price": 15,
+      "availability_status": "In Stock",
+      "supplier": "FarmFresh",
+      "market_price": 45
+    },
+    {
+      "id": 8,
+      "name": "Tomatoes",
+      "category": "Vegetables",
+      "price_per_unit": 25,
+      "subsidy_percentage": 40,
+      "subsidy_amount": 10,
+      "final_price": 15,
+      "availability_status": "In Stock",
+      "supplier": "AgriMarket",
+      "market_price": 35
+    },
+    {
+      "id": 9,
+      "name": "Onions",
+      "category": "Vegetables",
+      "price_per_unit": 20,
+      "subsidy_percentage": 30,
+      "subsidy_amount": 6,
+      "final_price": 14,
+      "availability_status": "In Stock",
+      "supplier": "VegWorld",
+      "market_price": 26
+    },
+    {
+      "id": 10,
+      "name": "Apples",
+      "category": "Fruits",
+      "price_per_unit": 60,
+      "subsidy_percentage": 10,
+      "subsidy_amount": 6,
+      "final_price": 54,
+      "availability_status": "In Stock",
+      "supplier": "FruitLand",
+      "market_price": 70
+    }
+  ]
+}

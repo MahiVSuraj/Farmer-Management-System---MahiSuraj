@@ -1,0 +1,165 @@
+{
+    "farmerSchemes": [
+      {
+        "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+        "type": "Central",
+        "description": "Provides income support of ₹6,000 per year to small and marginal farmers.",
+        "beneficiaries": "Small and marginal farmers owning up to 2 hectares of land.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+        "type": "Central",
+        "description": "Crop insurance scheme to provide financial support to farmers in case of crop loss due to natural calamities.",
+        "beneficiaries": "Farmers who enroll in the scheme.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Kisan Credit Card (KCC)",
+        "type": "Central",
+        "description": "Provides short-term credit to farmers to meet their agricultural needs.",
+        "beneficiaries": "All farmers including tenant farmers and sharecroppers.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Soil Health Card Scheme",
+        "type": "Central",
+        "description": "Provides soil health cards to farmers with crop-wise recommendations.",
+        "beneficiaries": "All farmers.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "PM Kusum Scheme",
+        "type": "Central",
+        "description": "Promotes the use of solar energy in irrigation by subsidizing solar-powered pumps.",
+        "beneficiaries": "Farmers with irrigation needs.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Rashtriya Krishi Vikas Yojana (RKVY)",
+        "type": "Central",
+        "description": "Encourages states to increase investment in agriculture.",
+        "beneficiaries": "State governments and farmers indirectly.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+        "type": "Central",
+        "description": "Promotes organic farming in clusters.",
+        "beneficiaries": "Farmers interested in organic farming.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "National Agriculture Market (e-NAM)",
+        "type": "Central",
+        "description": "Provides an online trading platform for agricultural commodities.",
+        "beneficiaries": "Farmers and traders.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Mukhya Mantri Krishi Ashirwad Yojana",
+        "type": "State",
+        "description": "Provides financial assistance to farmers in Jharkhand.",
+        "beneficiaries": "Small and marginal farmers in Jharkhand.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Rythu Bandhu Scheme",
+        "type": "State",
+        "description": "Provides financial assistance to farmers for crop investment in Telangana.",
+        "beneficiaries": "Farmers owning agricultural land in Telangana.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Krishak Bandhu Scheme",
+        "type": "State",
+        "description": "Provides financial support and life insurance to farmers in West Bengal.",
+        "beneficiaries": "Farmers in West Bengal.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Biju Krushak Kalyan Yojana (BKKY)",
+        "type": "State",
+        "description": "Provides health insurance coverage to farmers in Odisha.",
+        "beneficiaries": "Farmers and their families in Odisha.",
+        "status": "Not Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Yuva Sahakar Scheme",
+        "type": "Central",
+        "description": "Encourages youth participation in agricultural cooperatives.",
+        "beneficiaries": "Young farmers and cooperative societies.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Chief Minister's Solar Agriculture Feeder Scheme",
+        "type": "State",
+        "description": "Provides solar-powered irrigation pumps in Maharashtra.",
+        "beneficiaries": "Farmers in Maharashtra.",
+        "status": "Not Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Balram Tal Yojana",
+        "type": "State",
+        "description": "Encourages construction of farm ponds in Chhattisgarh.",
+        "beneficiaries": "Farmers in Chhattisgarh.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Jai Kisan Rin Mukti Yojana",
+        "type": "State",
+        "description": "Offers loan waiver for farmers in Madhya Pradesh.",
+        "beneficiaries": "Farmers with outstanding loans in Madhya Pradesh.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Uzhavar Santhai",
+        "type": "State",
+        "description": "Establishes farmer markets in Tamil Nadu to ensure fair prices.",
+        "beneficiaries": "Farmers and consumers in Tamil Nadu.",
+        "status": "Not Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Mukhya Mantri Krishi Yantrikaran Yojana",
+        "type": "State",
+        "description": "Provides subsidies for farm equipment in Bihar.",
+        "beneficiaries": "Farmers in Bihar.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Har Khet Ko Pani",
+        "type": "Central",
+        "description": "Ensures water availability for every farm under the PMKSY scheme.",
+        "beneficiaries": "Farmers facing irrigation issues.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Saur Sinchai Yojana",
+        "type": "State",
+        "description": "Subsidizes solar pumps for irrigation in Gujarat.",
+        "beneficiaries": "Farmers in Gujarat.",
+        "status": "Eligible",
+        "image": "https://via.placeholder.com/150"
+      }
+    ]
+  }
+  
